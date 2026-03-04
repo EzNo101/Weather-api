@@ -68,7 +68,7 @@ uv.lock             # uv dependency lockfile
 ```
 
 ## About
-This project was created by me as a practical task from [roadmap.sh](https://roadmap.sh/) to practice working with 3rd party APIs, async Python, Redis caching, and rate limiting in FastAPI.
+This project was created by me as a practical task from [roadmap.sh](https://roadmap.sh/projects/weather-api-wrapper-service) to practice working with 3rd party APIs, async Python, Redis caching, and rate limiting in FastAPI.
 
 ---
 
